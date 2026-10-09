@@ -5,7 +5,7 @@
 
 ## 🌌 About Me
 
-- 🎓 1st Year BTech AIML Student
+- 🎓 2st Year BTech AIML Student
 - 🤖 Interested in AI/ML & Generative AI
 - ⚡ Currently learning LangGraph & AI Agent Systems
 - 🛠️ Love building intelligent applications
